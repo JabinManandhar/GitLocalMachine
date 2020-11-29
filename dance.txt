@@ -1,0 +1,3 @@
+Dance monkey
+
+Just an example of git working from a local machine.
